@@ -36,7 +36,7 @@ The database follows **relational database design principles** including:
 An **Entity Relationship Diagram (ERD)** was created during the design phase to model relationships between entities. 
 ## Entity Relationship Diagram
 
-![ER Diagram](images/er_diagram.png)
+![ER Diagram](er_diagram.png)
 
 ---
 
