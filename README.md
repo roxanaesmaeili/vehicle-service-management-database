@@ -33,7 +33,10 @@ The database follows **relational database design principles** including:
 - Indexing for performance optimisation
 - ENUM data types for controlled values
 
-An **Entity Relationship Diagram (ERD)** was created during the design phase to model relationships between entities. :contentReference[oaicite:0]{index=0}
+An **Entity Relationship Diagram (ERD)** was created during the design phase to model relationships between entities. 
+## Entity Relationship Diagram
+
+![ER Diagram](images/er_diagram.png)
 
 ---
 
